@@ -1,4 +1,4 @@
-# (9) Overview of Storage and Indexing
+# (8) Overview of Storage and Indexing
 
 ### 1. Alternative File Organizations
 > 파일을 조직하는 데에, 상황마다 최적의 방법이 있음
