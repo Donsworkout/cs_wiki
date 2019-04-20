@@ -55,6 +55,10 @@
 * Private : 클래스 내부 함수에서만 접근 가능
 * Protected : Private과 비슷하나, 상속받은 클래스도 이용할 수 있음
 
+> 아래의 예시를 보면, 인스턴스의 변수를 직접 바인딩 할 수 없도록 protected 하고, 멤버 함수로서 할당할 수 있게 한 것을 볼 수 있다.
+
+![스크린샷 2019-04-20 오후 4 56 16](https://user-images.githubusercontent.com/26560119/56454700-fc8bbc00-638f-11e9-86f6-d8a44a3b534f.png)
+
 ### 4. Polymorphism
 > Sender은 메시지를 그냥 전달만 하고, Receiver 가 class type 에 따라 결과가 달라지는 것  
 
