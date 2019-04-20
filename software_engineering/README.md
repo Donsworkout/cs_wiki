@@ -9,6 +9,9 @@
 3. Modeling Concept  
 [상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/software_engineering/5_modeling_concept.md)
 
+4. Requirements Capture  
+[상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/software_engineering/6_requirements_capture.md)
+
 7. Requirement Analysis  
 [상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/software_engineering/7_requirement_analysis.md)
 
