@@ -3,6 +3,9 @@
 1. Software Process  
 [상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/software_engineering/software_process.md)
 
+2. What is Object Orientation  
+[상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/software_engineering/4_object_orientation.md)
+
 7. Requirement Analysis  
 [상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/software_engineering/7_requirement_analysis.md)
 
