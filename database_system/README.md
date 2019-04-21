@@ -1,5 +1,5 @@
 ### 응용 데이터베이스
-
+#### 챕터
 8. Overview of Storage and Indexing  
 **저장공간과 인덱싱**  
 [상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/database_system/8_overview_of_storage_and_indexing.md)  
