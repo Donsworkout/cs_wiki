@@ -19,3 +19,7 @@
 12. Overview of Query Evaluation  
 **쿼리 평가**  
 [상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/database_system/12_overview_of_query_evaluation.md)
+
+22. Pararrel DBMS  
+**병렬 DBMS**  
+[상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/database_system/22_a_parallel_dbms.md)
