@@ -20,6 +20,14 @@
 **쿼리 평가**  
 [상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/database_system/12_overview_of_query_evaluation.md)
 
+16. Transaction Management Overview  
+**트랜잭션 매니지먼트**  
+[상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/database_system/16_transaction_management_overview.md)
+
+16. Concurrency Control 
+**동시성 처리**  
+[상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/database_system/17_concurrency_control.md)
+
 22. Pararrel DBMS  
 **병렬 DBMS**  
 [상세 보기](https://github.com/Donsworkout/cs_wiki/blob/master/database_system/22_a_parallel_dbms.md)
