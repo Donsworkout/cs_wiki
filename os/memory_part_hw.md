@@ -39,10 +39,10 @@ so 역 페이지 테이블에서 엔트리의 갯수 =
 
 9.8 OS가 21bit 가상 메모리 주소를 가지고 있고, 물리 주소는 16bit 를 가지고 있다. 그리고 페이지 사이즈는 2KB (1024byte * 2)  이다. 아래의 각 엔트리의 개수는 몇개일까?
 
-a. A conventional, single-level page table
+a. A conventional, single-level page table  
 2^21 / 2^11 = 2^10
 
-b. An inverted page table
+b. An inverted page table  
 2^16 / 2^11 =  2^5
 
 OS 물리 메모리 최대는?  
