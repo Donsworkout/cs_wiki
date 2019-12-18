@@ -21,13 +21,16 @@
 
 - **Client** 는 최근 현업에서 가장 수요가 많은 자바스크립트 기반 Frontend Framework 인 React.js 를 사용하여 효율적으로 화면 컴포넌트를 구성하여, SPA (Single Page Application) 을 제작하였습니다.
 
-- 또한 원활한 키넥트 기기 - 웹 어플리케이션 간 연동, 그리고 HTTP 통신을 위해 Node.Js 기반 클라이언트 서버를 구성하였습니다.
+- 또한 원활한 키넥트 기기 - 웹 어플리케이션 간 연동, 그리고 HTTP 통신을 위해 Node.Js 기반 클라이언트 서버를 구성하였습니다. Node.Js 는 서버 구축이 간단하고, JSON 형태의 데이터를 쉽게 핸들링 할 수 있어 좋았고, 키넥트 디바이스 관련 모듈이 존재하여 디바이스 연동 또한 용이했습니다.
 
-- **Server** 은 구축이 간단하며, 머신러닝 모델과 Merge 가 용이한 Python Flask 서버 프레임워크를 사용하여 생산성을 높일 수 있었습니다.
+- **Server** 은 구축이 간단하며, 머신러닝 모델과 Merge 가 용이한 Python Flask 서버 프레임워크를 사용하여 생산성을 높일 수 있었습니다.  
+또한 Amazon Web Services 의 EC2 Instance (Linux Ubuntu) 클라우드 서버를 활용하여 물리장비 없이 간단하게 인프라 환경을 구축할 수 있었습니다.
 
 - **Maching Learning** 프레임워크는 불필요한 기능이 많은 텐서플로우 대신, 사용이 간편하며 여러 수학적 연산을 제공하는 Scikit-Learn 을 사용하였습니다. 
 
 ### 3. Use case diagram
+
+> 초기에는 운동 통계기능이나, 실제 트레이너 피드백 기능 등 부가적인 기능이 더 있었으나, 추후에 머신러닝 모델 고도화나 웨어러블 장비 교체 이슈 등 때문에 개발이 다소 늦어지게 되어, 핵심 요구사항만 개발하는 것으로 타협하였습니다.
 
 ![u2](https://user-images.githubusercontent.com/26560119/70850167-ab09e180-1eca-11ea-9476-e1941040599c.png)
 
@@ -35,11 +38,11 @@
 
 #### (1) Upper Part (Client)
 
-<img width="1284" alt="스크린샷 2019-12-14 오후 10 09 08" src="https://user-images.githubusercontent.com/26560119/70850271-c9241180-1ecb-11ea-9b45-1e5e92f4f950.png">
+<img height="350" alt="스크린샷 2019-12-14 오후 10 09 08" src="https://user-images.githubusercontent.com/26560119/70850271-c9241180-1ecb-11ea-9b45-1e5e92f4f950.png">
 
 #### (2) Lower Part (Server)
 
-<img width="818" alt="스크린샷 2019-12-14 오후 10 11 39" src="https://user-images.githubusercontent.com/26560119/70850273-ce815c00-1ecb-11ea-92cf-237bab052a95.png">
+<img height="500" alt="스크린샷 2019-12-14 오후 10 11 39" src="https://user-images.githubusercontent.com/26560119/70850273-ce815c00-1ecb-11ea-92cf-237bab052a95.png">
 
 ### 5. 내가 수행한 것 (프로젝트 회고)
 
