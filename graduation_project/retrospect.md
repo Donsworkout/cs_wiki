@@ -38,11 +38,12 @@
 
 #### (1) Upper Part (Client)
 
-<img height="350" alt="스크린샷 2019-12-14 오후 10 09 08" src="https://user-images.githubusercontent.com/26560119/70850271-c9241180-1ecb-11ea-9b45-1e5e92f4f950.png">
+<img width="350" alt="스크린샷 2019-12-18 오후 9 10 46" src="https://user-images.githubusercontent.com/26560119/71134370-5efbcb80-2241-11ea-825e-fab3c308766a.png">
 
 #### (2) Lower Part (Server)
 
-<img height="500" alt="스크린샷 2019-12-14 오후 10 11 39" src="https://user-images.githubusercontent.com/26560119/70850273-ce815c00-1ecb-11ea-92cf-237bab052a95.png">
+<img width="600" alt="스크린샷 2019-12-18 오후 9 10 55" src="https://user-images.githubusercontent.com/26560119/71134371-5f946200-2241-11ea-8641-58a0b4a2b230.png">
+
 
 ### 5. 내가 수행한 것 (프로젝트 회고)
 
